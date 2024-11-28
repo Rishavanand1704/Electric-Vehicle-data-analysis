@@ -1,7 +1,5 @@
 ## Project Description: Electric Vehicle Sales and Configuration Data Analysis
 
-https://app.powerbi.com/groups/me/reports/552a6c32-0291-4606-84b4-c5a7b843d051/aae2722b2c1aec2ff233?experience=power-bi
-
 ### Objective:
 This project focuses on analyzing Electric Vehicle (EV) configuration and sales data using an ETL (Extract, Transform, Load) process. The project involves extracting data from Kaggle using the Kaggle API, transforming it using Python in a Jupyter notebook, and loading the processed data into a MySQL database via SQLAlchemy. After cleaning the data, the final outcome will be an interactive Power BI dashboard that visualizes EV sales trends, configuration details, and other key metrics.
 
